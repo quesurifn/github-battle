@@ -1,5 +1,5 @@
 var React = require('react');
-var Prompt = require('../components/Prompt');
+var Prompt = require('../components/prompt');
 
 var PromptContainer = React.createClass({
   contextTypes: {
